@@ -1,0 +1,7 @@
+{
+  "transport_emission_factor": 0.9,
+  "fertilizer_offset_factor": 5.0,
+  "soil_sequestration_factor": 0.2,
+  "excess_n_penalty": 10.0,
+  "overflow_penalty_per_ton": 1000
+}
