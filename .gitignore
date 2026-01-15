@@ -4,9 +4,10 @@ __pycache__/
 *.pyd
 .Python
 env/
-venv/
+.venv/
 *.env
 .DS_Store
 *.log
 data/*.csv
 !data/parameters.json
+output/
